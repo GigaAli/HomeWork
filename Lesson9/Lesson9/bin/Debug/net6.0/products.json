@@ -1,0 +1,18 @@
+[
+  {
+    "ID": -409831149,
+    "Name": "Milk",
+    "ProductionDate": "2023-09-15T00:00:00",
+    "ExpiresOn": "2023-09-30T00:00:00",
+    "BruttoWeight": 1000,
+    "NettoWeight": 950
+  },
+  {
+    "ID": -409822213,
+    "Name": "Bread",
+    "ProductionDate": "2023-09-14T00:00:00",
+    "ExpiresOn": "2023-09-18T00:00:00",
+    "BruttoWeight": 500,
+    "NettoWeight": 450
+  }
+]
