@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "B0NNTAGEI6kgN7sydwXUb71WYsrb3DNfWqw5W4IV1BFPJ4CvnHZgPUfBofqrgT56VGeAp773A85rADWGCXtuDA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ASUS\\source\\repos\\MetroStyle\\MetroStyle\\MetroStyle.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ASUS\\.nuget\\packages\\controlzex\\4.4.0\\controlzex.4.4.0.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\mahapps.metro\\2.4.10\\mahapps.metro.2.4.10.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.19\\microsoft.xaml.behaviors.wpf.1.1.19.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\system.text.json\\4.7.2\\system.text.json.4.7.2.nupkg.sha512"
+  ],
+  "logs": []
+}
