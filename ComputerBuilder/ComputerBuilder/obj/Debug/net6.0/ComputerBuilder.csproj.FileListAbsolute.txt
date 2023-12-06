@@ -1,0 +1,15 @@
+C:\Users\ASUS\source\repos\ComputerBuilder\ComputerBuilder\bin\Debug\net6.0\ComputerBuilder.exe
+C:\Users\ASUS\source\repos\ComputerBuilder\ComputerBuilder\bin\Debug\net6.0\ComputerBuilder.deps.json
+C:\Users\ASUS\source\repos\ComputerBuilder\ComputerBuilder\bin\Debug\net6.0\ComputerBuilder.runtimeconfig.json
+C:\Users\ASUS\source\repos\ComputerBuilder\ComputerBuilder\bin\Debug\net6.0\ComputerBuilder.dll
+C:\Users\ASUS\source\repos\ComputerBuilder\ComputerBuilder\bin\Debug\net6.0\ComputerBuilder.pdb
+C:\Users\ASUS\source\repos\ComputerBuilder\ComputerBuilder\obj\Debug\net6.0\ComputerBuilder.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\ComputerBuilder\ComputerBuilder\obj\Debug\net6.0\ComputerBuilder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\ComputerBuilder\ComputerBuilder\obj\Debug\net6.0\ComputerBuilder.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\ComputerBuilder\ComputerBuilder\obj\Debug\net6.0\ComputerBuilder.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\ComputerBuilder\ComputerBuilder\obj\Debug\net6.0\ComputerBuilder.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\ComputerBuilder\ComputerBuilder\obj\Debug\net6.0\ComputerBuilder.dll
+C:\Users\ASUS\source\repos\ComputerBuilder\ComputerBuilder\obj\Debug\net6.0\refint\ComputerBuilder.dll
+C:\Users\ASUS\source\repos\ComputerBuilder\ComputerBuilder\obj\Debug\net6.0\ComputerBuilder.pdb
+C:\Users\ASUS\source\repos\ComputerBuilder\ComputerBuilder\obj\Debug\net6.0\ComputerBuilder.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\ComputerBuilder\ComputerBuilder\obj\Debug\net6.0\ref\ComputerBuilder.dll
