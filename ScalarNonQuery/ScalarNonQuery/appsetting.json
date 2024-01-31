@@ -1,0 +1,6 @@
+{
+  "ConnectionStrings": {
+    "Default": "Data Source=STHQ011A-10;Initial Catalog=Academy ;User ID=admin;Password=admin"
+  }
+
+}
